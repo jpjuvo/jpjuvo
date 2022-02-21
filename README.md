@@ -16,4 +16,3 @@ I've been professionally crafting computer vision software since 2015, and it's 
   <a href="https://www.kaggle.com/qitvision">
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/qitvision/competition/light" />
 </p>
-
